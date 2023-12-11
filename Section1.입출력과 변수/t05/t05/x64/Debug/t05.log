@@ -1,0 +1,21 @@
+﻿  ex01.cpp
+  t06.cpp
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(4,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\t05\t06.cpp(7,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다...
+t06.obj : error LNK2005: main이(가) ex01.obj에 이미 정의되어 있습니다.
+C:\Users\ssaa8\OneDrive\바탕 화면\c++\t05\x64\Debug\t05.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
